@@ -16,11 +16,11 @@
             </div>
             <nav class="main-nav">
                 <ul>
-                    <li><a href="index.html">Accueil</a></li>
-                    <li><a href="about.html" class="active">À propos</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="login.html" class="btn-login">Connexion</a></li>
-                    <li><a href="register.html" class="btn-register">Inscription</a></li>
+                    <li><a href="index.php">Accueil</a></li>
+                    <li><a href="about.php" class="active">À propos</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="login.php" class="btn-login">Connexion</a></li>
+                    <li><a href="register.php" class="btn-register">Inscription</a></li>
                 </ul>
             </nav>
         </div>
@@ -135,11 +135,11 @@
                 <div class="footer-links">
                     <h4>Liens utiles</h4>
                     <ul>
-                        <li><a href="index.html">Accueil</a></li>
-                        <li><a href="about.html">À propos</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                        <li><a href="terms.html">Conditions d'utilisation</a></li>
-                        <li><a href="privacy.html">Politique de confidentialité</a></li>
+                        <li><a href="index.php">Accueil</a></li>
+                        <li><a href="about.php">À propos</a></li>
+                        <li><a href="contact.php">Contact</a></li>
+                        <li><a href="terms.php">Conditions d'utilisation</a></li>
+                        <li><a href="privacy.php">Politique de confidentialité</a></li>
                     </ul>
                 </div>
                 
